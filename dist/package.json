@@ -1,0 +1,28 @@
+{
+  "name": "angui5",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiomelzer/AngUI5"
+  },
+  "author": {
+    "name": "Caio Melzer de Oliveira",
+    "email": "melzer.caio@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiomelzer/AngUI5/issues"
+  },
+  "main": "angui5.umd.js",
+  "module": "angui5.js",
+  "jsnext:main": "angui5.js",
+  "typings": "angui5.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}

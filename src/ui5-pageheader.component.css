@@ -1,0 +1,16 @@
+:host{
+    color: #666666;
+    text-shadow: 0 0 0.125rem #ffffff;
+    font-family: "72",Arial,Helvetica,sans-serif;
+    font-size: 1rem;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+    position: relative;
+    height: 3rem;
+    line-height: 3rem;
+    color: #666666;
+    background-color: #eff4f9;
+    text-shadow: 0 0 0.125rem #ffffff;
+    box-shadow: inset 0 -0.0625rem #d1e0ee;
+}

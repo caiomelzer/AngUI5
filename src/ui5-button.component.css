@@ -1,0 +1,42 @@
+:host{
+    height: 3rem;
+    margin: 0;
+    padding: 0.250rem 0;
+    vertical-align: top;
+    border: 1px solid #ababab;
+    background-color: transparent;
+}
+:host span{
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    vertical-align: top;
+    -webkit-appearance: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    box-sizing: border-box;
+    font-family: "72",Arial,Helvetica,sans-serif;
+    font-size: 0.875rem;
+    height: 2.500rem;
+    min-width: 2.500rem;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    background-color: #f7f7f7;
+    
+    border-radius: 0.2rem;
+    color: #346187;
+    text-shadow: 0 0 0.125rem #ffffff;
+    cursor: pointer;
+}
+:host span div{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: top;
+    line-height: 2.375rem;
+}
